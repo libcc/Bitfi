@@ -10,11 +10,11 @@ This README describes the various steps and commands to preprocess the data, han
 
 #### 📅 Last Update: December 22, 2024
 
-1. **Download the TSV data**  
+1. **Download the related TSV data**  
 
-2. **Use LibreOffice Calc to process the data and save the result as html file**  
+2. **Use LibreOffice Calc to process the data and save the result as a HTML file**  
 
-3. **Convert newlines to spaces**  
+3. **Convert newlines to spaces (Online tool)**  
 
 4. **Save the data as List.txt**  
 
