@@ -25,7 +25,7 @@ This README describes the various steps and commands to preprocess the data, han
 ## ⚙️ Installation
 
 
-0. **Prerequisites**
+1. **Prerequisites**
 
    ```bash
    sudo apt-get install build-essential automake autoconf libtool libgmp3-dev p7zip-full
@@ -91,6 +91,27 @@ This README describes the various steps and commands to preprocess the data, han
 
    ```bash
    xargs ./Bitfi -t 3 < List.txt
+   ```
+
+9. **Miscellaneous - Run in the Background/Foreground**
+
+   ```bash
+   command
+   command &
+   ```
+
+   ```bash
+   jobs
+   jobs -l
+   ```
+
+   ```bash
+   fg
+   bg
+   ```
+   
+   ```bash
+   kill PID
    ```
 
    ```bash
