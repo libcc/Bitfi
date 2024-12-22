@@ -88,3 +88,7 @@ This README describes the various steps and commands to preprocess the data, han
    ```bash
    xargs ./Bitfi -t 3 < List.txt
    ```
+
+   ```bash
+   Ctrl + C
+   ```
