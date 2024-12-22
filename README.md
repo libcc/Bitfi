@@ -1,6 +1,6 @@
 ## Overview
 
-This README describes the various commands used to handle files and run programs with input files. Below is an explanation of each command.
+This README describes the various steps and commands to preprocess the data, handle files, and run the program with input data.
 
 
 
