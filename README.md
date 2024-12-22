@@ -78,6 +78,10 @@ This README describes the various steps and commands to preprocess the data, han
 8. **Passing File Content as Arguments**
 
    ```bash
+   chmod 777 Bitfi
+   ```
+
+   ```bash
    clear
    ```
 
