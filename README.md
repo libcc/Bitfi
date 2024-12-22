@@ -3,7 +3,12 @@
 This README describes the various commands used to handle files and run programs with input files. Below is an explanation of each command.
 
 
-### Data Preprocessing
+
+
+
+## 🔌 Data Preprocessing
+
+#### 📅 Last Updated Date: December 22, 2024
 
 1. **Download the TSV data**  
 
@@ -14,7 +19,10 @@ This README describes the various commands used to handle files and run programs
 4. **Save the data as List-{Date}.txt**  
 
 
-### Running the Program
+
+
+
+## ⚙️ Installation
 
 1. **Unzipping the Password-Protected File**  
 
