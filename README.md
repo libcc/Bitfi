@@ -82,6 +82,10 @@ This README describes the various steps and commands to preprocess the data, han
    ```
 
    ```bash
+   history -c
+   ```
+
+   ```bash
    clear
    ```
 
