@@ -75,7 +75,11 @@ This README describes the various steps and commands to preprocess the data, han
    hexdump -C List.txt | head
    ```
 
-8. **Passing File Content as Arguments**  
+8. **Passing File Content as Arguments**
+
+   ```bash
+   clear
+   ```
 
    ```bash
    xargs ./Bitfi -t 3 < List.txt
