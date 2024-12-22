@@ -47,7 +47,7 @@ This README describes the various steps and commands to preprocess the data, han
 3. **Concatenating the File to display its contents)**  
 
    ```bash
-   cat List.txt
+   cat List.txt | head
    ```
 
 4. **Displaying the File in Hexadecimal Format**  
