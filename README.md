@@ -65,7 +65,7 @@ This README describes the various steps and commands to preprocess the data, han
 6. **Verifying BOM Removal (Hexadecimal Display)** 
 
    ```bash
-   hexdump -C List.txt | head -c 100
+   hexdump -C List.txt | head
    ```
 
 7. **Passing File Content as Arguments**  
