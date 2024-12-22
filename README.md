@@ -47,7 +47,7 @@ This README describes the various steps and commands to preprocess the data, han
 3. **Concatenating the File to display its contents)**  
 
    ```bash
-   cat List.txt | head -c 200
+   cat List.txt | head -c 100
    ```
 
 4. **Displaying the File in Hexadecimal Format**  
@@ -65,7 +65,7 @@ This README describes the various steps and commands to preprocess the data, han
 6. **Verifying BOM Removal (Hexadecimal Display)** 
 
    ```bash
-   hexdump -C List.txt | head
+   hexdump -C List.txt | head -c 100
    ```
 
 7. **Passing File Content as Arguments**  
