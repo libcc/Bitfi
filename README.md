@@ -30,13 +30,12 @@ This README describes the various steps and commands to preprocess the data, han
    ```bash
    sudo apt-get install build-essential automake autoconf libtool libgmp3-dev p7zip-full
    cd Bitfi
-   7z x Bitfi.zip
    ```
 
 1. **Unzipping the Password-Protected File**  
 
    ```bash
-   unzip -P password Bitfi.zip
+   7z x Bitfi.zip
    ```
 
 2. **Running Make**  
