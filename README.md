@@ -1,20 +1,20 @@
 ## Overview
 
-This README describes the usage of various commands used for handling files and running programs with input files. Below is an explanation of each command.
+This README describes the various commands used to handle files and run programs with input files. Below is an explanation of each command.
 
 
 ### Data Preprocessing
 
 1. **Download the TSV data**  
 
-2. **Use LibreOffice Calc for processing the data and save the result as html file**  
+2. **Use LibreOffice Calc to process the data and save the result as html file**  
 
 3. **Conver newlines to spaces**  
 
 4. **Save the data as List-{Date}.txt**  
 
 
-### Commands
+### Running the Program
 
 1. **Unzipping the Password-Protected File**  
 
