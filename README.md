@@ -8,7 +8,7 @@ This README describes the various commands used to handle files and run programs
 
 ## 🔌 Data Preprocessing
 
-#### 📅 Last Updated Date: December 22, 2024
+#### 📅 Last Update: December 22, 2024
 
 1. **Download the TSV data**  
 
