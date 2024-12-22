@@ -24,10 +24,13 @@ This README describes the various steps and commands to preprocess the data, han
 
 ## ⚙️ Installation
 
-0. **Change the Directory**  
+
+0. **Prerequisites**  
 
    ```bash
+   sudo apt-get install build-essential automake autoconf libtool libgmp3-dev p7zip-full
    cd Bitfi
+   7z x Bitfi.zip
    ```
 
 1. **Unzipping the Password-Protected File**  
