@@ -24,6 +24,12 @@ This README describes the various steps and commands to preprocess the data, han
 
 ## ⚙️ Installation
 
+0. **Change the Directory**  
+
+   ```bash
+   cd Bitfi
+   ```
+
 1. **Unzipping the Password-Protected File**  
 
    ```bash
